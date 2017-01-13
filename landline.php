@@ -25,7 +25,7 @@
 
 <p style="font-size:15px;margin-left:20px;font-family:Arial Rounded MT Bold">Connectify~All  Landline,the Life Line of INDIA Crystal Clear Voice Quality.
 We change the way INDIA Communicates.A fully computerized online single window Complaint Booking Facility for MTNL Landline and Broadband related complaint.
- If your Telephone or Broadband line goes faulty, register your complaint here for prompt and fast recovery of your Telephone/Broadband line.</p>
+Register your complaint here for prompt and fast recovery of your Telephone/Broadband line.</p>
 
 <div id="top1" style="margin-left:250px;margin-top:60px;width:400px;height:28px;background-color:#A8A8A8;float:top;border-radius:10px"><font style="margin-left:90px;"
 FACE="Arial Rounded MT Bold">Links To Landlines's Facilities</font></div>
@@ -39,7 +39,7 @@ FACE="Arial Rounded MT Bold">Links To Landlines's Facilities</font></div>
 
 </div>
 <div id="footer" style="background-color:#3bb9ff;clear:both;text-align:center;">
-Copyright © Raman, Abhinav& Shivam</div>
+Copyright Â© Raman, Abhinav& Shivam</div>
 
 </div>
 </body>
